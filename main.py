@@ -1,5 +1,5 @@
 '''
-#TASK1
+#############################################TASK1###################################
 def find_max_multiplication(string):
     if not isinstance(string, str):
         return
